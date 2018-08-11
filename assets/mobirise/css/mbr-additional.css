@@ -5170,8 +5170,112 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/voor-web-739-2000x1301.jpg");
 }
-.cid-qTfK7kpyZG {
+.cid-qZ1MDyFYKH {
   padding-top: 60px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-qZ1MDyFYKH .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qZ1MDyFYKH .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qZ1MDyFYKH .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-qZ1MDyFYKH .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qZ1MDyFYKH .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qZ1MDyFYKH .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qZ1MDyFYKH .img-item {
+    width: 100% !important;
+  }
+  .cid-qZ1MDyFYKH .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-qZ1MDyFYKH P {
+  color: #767676;
+}
+.cid-qZ1MaJkXLU {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qZ1MaJkXLU .image-block {
+  margin: auto;
+}
+.cid-qZ1MaJkXLU figcaption {
+  position: relative;
+}
+.cid-qZ1MaJkXLU figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qZ1MaJkXLU .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qZ1NRrz7mG {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qZ1NRrz7mG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qZ1Mxw2eGX {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qZ1Mxw2eGX .image-block {
+  margin: auto;
+}
+.cid-qZ1Mxw2eGX figcaption {
+  position: relative;
+}
+.cid-qZ1Mxw2eGX figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qZ1Mxw2eGX .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qZ1NtcA4HD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qZ1NtcA4HD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qTfK7kpyZG {
+  padding-top: 30px;
   padding-bottom: 0px;
   background: #ffffff;
 }
